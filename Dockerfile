@@ -1,6 +1,6 @@
 FROM python:3.10-slim-buster
 
-# USER root
+USER root
 
 WORKDIR /app
 
